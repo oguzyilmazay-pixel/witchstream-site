@@ -2,5 +2,5 @@
 window.WITCH_FLAGS = {
   // true: visitors see "In progress". Testers see the real site.
   // false: the site is live for everyone.
-  in_progress: true
+  in_progress: false
 };
